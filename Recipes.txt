@@ -1,6 +1,5 @@
-
-check compare and merge
-
+changes made by Vaibhav Nangare
+update latest tech
 
 Welcome to  telusko kitchen
 
@@ -11,5 +10,6 @@ Beans
 pizza
 Thank you
 
- Done !!!
-hello  y r u
+Done !!!
+
+finished completing
